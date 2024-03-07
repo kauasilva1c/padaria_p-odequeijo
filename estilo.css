@@ -14,7 +14,7 @@ body{
 .cabecalho{ 
     background-color: #ECE3CB;
     display:flex;
-    background-color: #DEAD00;
+    background-color: #ECE3CB;
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
