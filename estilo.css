@@ -16,7 +16,7 @@ background: linear-gradient(0deg, rgba(255,184,0,0.927608543417367) 0%, rgba(254
 .cabecalho{ 
     background-color: #e7c66b;
     display:flex;
-    background-color: #f3d657;
+    background-color: #fefb00;
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
