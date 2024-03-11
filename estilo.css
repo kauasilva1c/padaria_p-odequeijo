@@ -9,12 +9,12 @@ padding: 0;
 
 
 body{
-    background-color: #f7df8c;
+    background-color: #ffd94e;
 }
 .cabecalho{ 
     background-color: #e7c66b;
     display:flex;
-    background-color: #f1cb61;
+    background-color: #ecb829;
     align-items: center;
     justify-content: space-around;
     font-size: 30px;
