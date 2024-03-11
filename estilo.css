@@ -9,7 +9,8 @@ padding: 0;
 
 
 body{
-    background-color: #ffea9c;
+    background: rgb(255,184,0);
+    background: linear-gradient(90deg, rgba(255,184,0,0.927608543417367) 0%, rgba(254,251,0,1) 84%);
 }
 .cabecalho{ 
     background-color: #e7c66b;
