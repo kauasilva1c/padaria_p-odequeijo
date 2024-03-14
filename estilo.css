@@ -33,3 +33,18 @@ body{
     font-size: 24px;
 
     }
+
+
+    .secao1{
+        display: flex;
+        background background: rgb(236,227,203);
+        background: linear-gradient(0deg, rgba(236,227,203,1) 0%, rgba(255,211,50,1) 35%);
+        color: black;
+        aling-items: center; 
+        justfy-content: center 
+    }
+
+    {
+        .secao1-div
+        width: 35%
+    }
