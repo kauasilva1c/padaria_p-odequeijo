@@ -9,8 +9,8 @@ padding: 0;
 
 
 body{
-    background: rgb(255,184,0);
-background: linear-gradient(0deg, rgba(255,184,0,0.927608543417367) 0%, rgba(254,251,0,0.4822303921568627) 84%);
+    background: rgb(242,242,249);
+background: linear-gradient(0deg, rgba(242,242,249,1) 0%, rgba(255,211,50,1) 35%);
     height: 100vh;
 }
 .cabecalho{ 
