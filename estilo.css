@@ -58,6 +58,10 @@ body{
         font-weight: 400; 
         font-style: normal; 
     }
+    .secao2{
+        text-align: center;
+        color: black;
+    }
     .secao2-titulo{
         font-size: 40px;
     }
