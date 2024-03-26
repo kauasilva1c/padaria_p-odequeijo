@@ -48,3 +48,12 @@ body{
         .secao1-div
         width: 35%
     }
+
+    .secao2{
+        background-color: white;
+    }
+    .secao2-titulo{
+        fount-famyli: "Angkor", serif;
+        fount-weight: 400; 
+        font-style: normal; 
+    }
