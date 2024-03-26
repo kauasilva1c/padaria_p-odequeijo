@@ -37,23 +37,24 @@ body{
 
     .secao1{
         display: flex;
-        background background: rgb(236,227,203);
+        background : rgb(236,227,203);
         background: linear-gradient(0deg, rgba(236,227,203,1) 0%, rgba(255,211,50,1) 35%);
         color: black;
-        aling-items: center; 
-        justfy-content: center 
+        align-items: center; 
+        justify-content: center 
     }
 
-    {
-        .secao1-div
+    
+    .secao1-div{
         width: 35%
     }
 
     .secao2{
         background-color: f5d753;
     }
+
     .secao2-titulo{
-        fount-famyli: "Angkor", serif;
-        fount-weight: 400; 
+        font-family: "Angkor", serif;
+        font-weight: 400; 
         font-style: normal; 
     }
