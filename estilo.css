@@ -37,8 +37,7 @@ body{
 
     .secao1{
         display: flex;
-        background : rgb(236,227,203);
-        background: linear-gradient(0deg, rgba(236,227,203,1) 0%, rgba(255,211,50,1) 35%);
+        
         color: black;
         align-items: center; 
         justify-content: center 
