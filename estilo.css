@@ -3,17 +3,6 @@ margin: 0;
 padding: 0;
 }
 
-
-
-
-
-
-body{
-    background: rgb(231,198,107);
-    background: linear-gradient(180deg, rgba(231,198,107,1) 0%, rgba(251,245,229,1) 50%, rgba(255,255,255,1) 100%);
-    height: 100vh;
-}
-
 .cabecalho{ 
     background-color: #e7c66b;
     display:flex;
@@ -37,25 +26,29 @@ body{
 .secao1{
     color: black;
     text-align: center; 
+    background: rgb(222,173,0);
+    background: linear-gradient(180deg, rgba(222,173,0,1) 0%, rgba(228,212,152,1) 100%);
 }
 
 .secao1-div{
     width: 35%
 }
 
-    .secao2{
-        
-    }
-
-    .secao2-titulo{
-        font-family: "Angkor", serif;
-        font-weight: 400; 
-        font-style: normal; 
-    }
-    .secao2{
-        text-align: center;
-        color: black;
-    }
-    .secao2-titulo{
-        font-size: 40px;
-    }
+.secao2-titulo{
+    font-family: "Angkor", serif;
+    font-weight: 400; 
+    font-style: normal; 
+}
+.secao2{
+    text-align: center;
+    color: black;
+    background: rgb(228,212,152);
+    background: linear-gradient(180deg, rgba(228,212,152,1) 0%, rgba(255,255,255,1) 100%);
+}
+.secao2-titulo{
+    font-size: 40px;
+}
+.secao2-todos-os-lanches{
+    display: grid;
+    grid-template-columns: 33% 33% 33% ;
+}
