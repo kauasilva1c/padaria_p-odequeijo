@@ -28,6 +28,7 @@ padding: 0;
     text-align: center; 
     background: rgb(222,173,0);
     background: linear-gradient(180deg, rgba(222,173,0,1) 0%, rgba(228,212,152,1) 100%);
+    font-size: 18px;
 }
 
 .secao1-div{
